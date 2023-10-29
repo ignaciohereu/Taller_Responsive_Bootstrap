@@ -1,0 +1,18 @@
+div.container {
+    justify-content: center; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+
+}
+
+
+.custom-list {
+    border: 1px solid #ccc;
+  }
+  
+  .custom-list a {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+  }
